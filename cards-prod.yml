@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to EazyBank cards related DOOOOOCKER APIs"
+  message: "Hey, welcome to EazyBank cards related prod APIs"
   contactDetails:
     name: "DIDIHILL - Product Owner"
     email: "didihill@google.com"
